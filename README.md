@@ -69,3 +69,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # cityfoodkitchenadmin
 Admin Dashboard - City Food Kitchen
 >>>>>>> f3b7e0b50823b2a5052337ca9a985b50df1016d9
+>>>>>>> The website of City Food Kitchen was demonstrated using the Laravel development server. The following command “php artisan serve” was used to run the website locally. The test server can  run a local URL, usually http://127.0.0.1:8000, after this command is run. We can also run with localhost server of XAMPP with folder name of the project. Project folders should be placed in C:\xampp\htdocs. And then we can run with local host server and the folder name of the projects. 
+The following URL is the local host server link of the Customer Website.
+ http://localhost/cityfoodkitchen/public/
+The following URL is the local host server link of Admin Dashboard.
+http://localhost/cityfoodkitchenadmin/public/ 
